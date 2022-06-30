@@ -30,7 +30,7 @@ $ cp readme.md      파일 복사
 :wq    입력 후 종료 # write and quit
 ```
 
-##Process 
+## Process 
 ```shell
 git status           상태 확인      # 빨간 readme.md 생김 (stage 에 올라가지 않음)
 git add readme.md    stage에 올림
