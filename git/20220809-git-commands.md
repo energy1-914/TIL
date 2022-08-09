@@ -12,16 +12,18 @@
 ```
 
 ## DOM API(Document Object Model, Application Programming Interface)
+```shell
 - 자바스크립트에서 HTML을 제어하는 여러가지 명령들 
   # ex) queryselector, classList.add 등
+```
 
 ## JSON(JavaScript Object Notation)
-
+```shell
 - 자바스크립트의 데이터를 표현하는 하나의 포맷.(속성-값 쌍)
-
+```
 
 ## fetch() 함수 사용법
-
+```shell
 - fetch(API, options)
   .then((response) => console.log(response)
   .catch((error) => console.log(error)
@@ -29,4 +31,4 @@
   # fetch() 함수는 첫번째 인자로 API 주소를, 두번째 인자로 옵션 객체를 받는다.
   # 또한, promise 타입의 객체를 반환한다 .
   # 성공적으로 실행되면 then() 실행.
-
+```
